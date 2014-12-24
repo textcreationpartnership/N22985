@@ -1,0 +1,176 @@
+#Reflections on death. By William Dodd L.L.D. Late Chaplain to the Lord Bishop of St. Davids.#
+
+##Dodd, William, 1729-1777.##
+Reflections on death. By William Dodd L.L.D. Late Chaplain to the Lord Bishop of St. Davids.
+Dodd, William, 1729-1777.
+
+##General Summary##
+
+**Links**
+
+[TCP catalogue](http://www.ota.ox.ac.uk/tcp/)  • 
+[HTML](http://tei.it.ox.ac.uk/tcp/Texts-HTML/free/N22/N22985.html)  • 
+[EPUB](http://tei.it.ox.ac.uk/tcp/Texts-EPUB/free/N22/N22985.epub)
+
+**Availability**
+
+This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+
+**Major revisions**
+
+1. __2009-02__ __TCP__ *Assigned for keying and markup*
+1. __2009-03__ __SPi Global (Manila)__ *Keyed and coded from Readex/Newsbank page images*
+1. __2010-04__ __Olivia Bottum__ *Sampled and proofread*
+1. __2010-04__ __Olivia Bottum__ *Text and markup reviewed and edited*
+1. __2011-06__ __pfs.__ *Batch review (QC) and XML conversion*
+
+##Content Summary##
+
+#####Front#####
+
+1. TO THE RIGHT HONORABLE THE EARL OF BUTE, FIRST LORD OF HIS MAJESTY'S TREASURY, KNIGHT OF THE MOST NOBLE ORDER OF THE GARTER, &c. &c.
+
+1. ADVERTISEMENT.
+
+#####Body#####
+
+1. REFLECTIONS ON DEATH.
+
+    _ CHAP. I.
+
+    _ CHAP. II.
+
+    _ CHAP. III.
+
+    _ CHAP. IV.
+
+    _ CHAP. V.
+
+    _ CHAP. VI.
+
+    _ CHAP. VII.
+
+    _ CHAP. VIII.
+
+    _ CHAP. IX.
+
+    _ CHAP. X.
+
+    _ CHAP. XI.
+
+    _ CHAP. XII.
+
+    _ CHAP. XIII.
+
+    _ CHAP. XIV.
+
+    _ CHAP. XII.
+
+    _ CHAP. XVI.
+
+    _ CHAP. XVI.
+
+      * To faithful, honeſt, and induſtrious Servants.
+
+    _ CHAP. XVIII.
+
+    _ CHAP. XIX.
+
+    _ CHAP. XX.
+
+**Types of content**
+
+  * There are 440 **verse** lines!
+  * There are 11 **drama** parts! This is mixed prose (5) and verse (6) drama.
+  * Oh, Mr. Jourdain, there is **prose** in there!
+
+There are 69 **ommitted** fragments! 
+ @__reason__ (69) : illegible (69)  •  @__resp__ (69) : #PDCC (69)  •  @__extent__ (69) : 1 word (6), 1 letter (47), 2 letters (12), 3 letters (2), 6 letters (1), 1 span (1)
+
+**Character listing**
+
+
+|Text|string(s)|codepoint(s)|
+|---|---|---|
+|Latin-1 Supplement|·|183|
+|Latin Extended-A|ſ|383|
+|General Punctuation|—•⁂…|8212 8226 8258 8230|
+|Geometric Shapes|◊▪|9674 9642|
+|CJKSymbolsandPunctuation|〈〉|12296 12297|
+
+##Tag Usage Summary##
+
+###Header Tag Usage###
+
+|No|element name|occ|attributes|
+|---|---|---|---|
+|1.|__author__|4||
+|2.|__availability__|1||
+|3.|__biblFull__|1||
+|4.|__change__|5||
+|5.|__date__|7| @__when__ (1) : 2012-01 (1)|
+|6.|__edition__|1||
+|7.|__editionStmt__|1||
+|8.|__editorialDecl__|1||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), TCP (1), STC (1), NOTIS (1), IMAGE-SET (1), EVANS-CITATION (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|6||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|1||
+|28.|__textClass__|1||
+|29.|__title__|3||
+|30.|__titleStmt__|2||
+
+
+###Text Tag Usage###
+
+|No|element name|occ|attributes|
+|---|---|---|---|
+|1.|__abbr__|1||
+|2.|__bibl__|121||
+|3.|__body__|2||
+|4.|__closer__|2||
+|5.|__date__|1||
+|6.|__dateline__|1||
+|7.|__desc__|69||
+|8.|__div__|26| @__type__ (26) : title_page (1), dedication (1), to_the_reader (1), text (1), chapter (20), play (1), rules (1)  •  @__n__ (20) : 1 (1), 2 (1), 3 (1), 4 (1), 5 (1), 6 (1), 7 (1), 8 (1), 9 (1), 10 (1), 11 (1), 12 (2), 13 (1), 14 (1), 16 (2), 18 (1), 19 (1), 20 (1)|
+|9.|__epigraph__|18||
+|10.|__figure__|1||
+|11.|__floatingText__|2| @__type__ (1) : letter (1)  •  @__xml:lang__ (2) : eng (0)|
+|12.|__g__|1153| @__ref__ (1153) : char:EOLhyphen (1127), char:punc (26)|
+|13.|__gap__|69| @__reason__ (69) : illegible (69)  •  @__resp__ (69) : #PDCC (69)  •  @__extent__ (69) : 1 word (6), 1 letter (47), 2 letters (12), 3 letters (2), 6 letters (1), 1 span (1)|
+|14.|__head__|27||
+|15.|__hi__|454| @__rend__ (1) : sup (1)|
+|16.|__l__|440||
+|17.|__lg__|2||
+|18.|__note__|276| @__n__ (275) : * (186), † (74), ‡ (13), § (2)  •  @__place__ (276) : bottom (276)|
+|19.|__opener__|2||
+|20.|__p__|427| @__n__ (23) : 2 (1), 3 (1), 4 (1), 5 (1), 6 (1), 7 (1), 8 (1), 9 (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (1), 15 (1), 16 (1), 17 (1), 18 (1), 19 (1), 20 (1), 21 (1), 22 (1), 23 (1), 24 (1)|
+|21.|__pb__|234| @__facs__ (234) : tcp:030356_0000_0FE5CE8E786ADB18 (1), tcp:030356_0001_0FE5CE9ADDC206D8 (1), tcp:030356_0002_0FE5CE93EB5D1EB8 (1), tcp:030356_0003_0FE5CE990B34D1F8 (1), tcp:030356_0004_0FE5CE0F43F9A788 (1), tcp:030356_0005_0FE5CDD40D5E0AF8 (1), tcp:030356_0006_0FE5CE0A8AF26610 (1), tcp:030356_0007_0FE5CE2801F3DCD8 (1), tcp:030356_0008_0FE5CE968BA16AC0 (1), tcp:030356_0009_0FE5CE9BA9B27BF8 (1), tcp:030356_0010_0FE5CE6E4E9E4388 (1), tcp:030356_0011_0FE5CDDDE6960958 (1), tcp:030356_0012_0FE5CE4E31EEF580 (1), tcp:030356_0013_0FE5CE4CE1D31690 (1), tcp:030356_0014_0FE5CE2B2D120278 (1), tcp:030356_0015_0FE5CE7B6BA566A0 (1), tcp:030356_0016_0FE5CE8505DC6978 (1), tcp:030356_0017_0FE5CE4F8FD7E880 (1), tcp:030356_0018_0FE5CDE790DFA038 (1), tcp:030356_0019_0FE5CE2953F1F500 (1), tcp:030356_0020_0FE5CE6F9F38D7F8 (1), tcp:030356_0021_0FE5CE6912D90AF0 (1), tcp:030356_0022_0FE59AC0B225C8A8 (1), tcp:030356_0023_0FE5CE7C397D21F0 (1), tcp:030356_0024_0FE5CE72B1FEEF58 (1), tcp:030356_0025_0FE5CDF883989FB0 (1), tcp:030356_0026_0FE5CE574B981420 (1), tcp:030356_0027_0FE5CE642AA878A0 (1), tcp:030356_0028_0FE5CE5A1FD65460 (1), tcp:030356_0029_0FE5CDE91EFB6968 (1), tcp:030356_0030_0FE5CE78ABAA8EF0 (1), tcp:030356_0031_0FE5CE4337669248 (1), tcp:030356_0032_0FE5CE6587F402C0 (1), tcp:030356_0033_0FE5CE1161172548 (1), tcp:030356_0034_0FE5CE16D3B787F8 (1), tcp:030356_0035_0FE5CDD4D7F00D40 (1), tcp:030356_0036_0FE5CE7A102218B0 (1), tcp:030356_0037_0FE5CE3A9C0F6D08 (1), tcp:030356_0038_0FE5CE90EB916970 (1), tcp:030356_0039_0FE5CDC3E9E82258 (1), tcp:030356_0040_0FE59AC5366896C0 (1), tcp:030356_0041_0FE59AC6CC281F20 (1), tcp:030356_0042_0FE5CDCB9475C718 (1), tcp:030356_0043_0FE5CDE9E4104CC0 (1), tcp:030356_0044_0FE5CE85D04C0328 (1), tcp:030356_0045_0FE5CDC4DD469160 (1), tcp:030356_0046_0FE5CE399DE5BB78 (1), tcp:030356_0047_0FE5CDD59CB1BFB8 (1), tcp:030356_0048_0FE5CE122C27BDD0 (1), tcp:030356_0049_0FE5CDD8B7FF3480 (1), tcp:030356_0050_0FE5CE448BCD9370 (1), tcp:030356_0051_0FE5CDD6A3998A68 (1), tcp:030356_0052_0FE5CE66E9247880 (1), tcp:030356_0053_0FE5CE3B63D7ACA8 (1), tcp:030356_0054_0FE5CDFD117763C8 (1), tcp:030356_0055_0FE5CDDFF2734880 (1), tcp:030356_0056_0FE5CDDA9A1DC2B0 (1), tcp:030356_0057_0FE5CDEBB2534148 (1), tcp:030356_0058_0FE5CDE858833908 (1), tcp:030356_0059_0FE5CDE148449F78 (1), tcp:030356_0060_0FE5CE7E73CBA8A8 (1), tcp:030356_0061_0FE5CE3C28502120 (1), tcp:030356_0062_0FE5CDDBE5D04C40 (1), tcp:030356_0063_0FE5CE5D538855F0 (1), tcp:030356_0064_0FE5CDF196570268 (1), tcp:030356_0065_0FE5CE1D71626908 (1), tcp:030356_0066_0FE5CE5BF7327670 (1), tcp:030356_0067_0FE5CE12F3F861E0 (1), tcp:030356_0068_0FE5CE1F5369D170 (1), tcp:030356_0069_0FE5CE209BF3B360 (1), tcp:030356_0070_0FE5CE2E0FDB0178 (1), tcp:030356_0071_0FE5CE8B112BDFC0 (1), tcp:030356_0072_0FE5CE6237FCEA90 (1), tcp:030356_0073_0FE5CE23B758BB50 (1), tcp:030356_0074_0FE5CDF2DB0432E0 (1), tcp:030356_0075_0FE5CDFEF6DC0970 (1), tcp:030356_0076_0FE5CDF40DD9F5A0 (1), tcp:030356_0077_0FE5CE45E5299C60 (1), tcp:030356_0078_0FE5CE82B31B8EA0 (1), tcp:030356_0079_0FE5CE004CA6E828 (1), tcp:030356_0080_0FE5CE30F61955B0 (1), tcp:030356_0081_0FE5CDF4DC9CFF38 (1), tcp:030356_0082_0FE5CE011501CEC0 (1), tcp:030356_0083_0FE5CE4A9528DEC0 (1), tcp:030356_0084_0FE5CE32CD6C4780 (1), tcp:030356_0085_0FE5CE02F7DBAAD8 (1), tcp:030356_0086_0FE5CE33C5276988 (1), tcp:030356_0087_0FE5CE06B770E2E8 (1), tcp:030356_0088_0FE5CDDCB3A06A58 (1), tcp:030356_0089_0FE5CDC1074F79A8 (1), tcp:030356_0090_0FE5CE0899CA8A00 (1), tcp:030356_0091_0FE5CDE217A0CC30 (1), tcp:030356_0092_0FE5CDCD2CFA3C88 (1), tcp:030356_0093_0FE5CDF65A40F668 (1), tcp:030356_0094_0FE5CDF7B924D860 (1), tcp:030356_0095_0FE5CDC92B05FE08 (1), tcp:030356_0096_0FE5CE3F38582608 (1), tcp:030356_0097_0FE5CDC660749030 (1), tcp:030356_0098_0FE5CDCC64C9A9E0 (1), tcp:030356_0099_0FE5CEE481771388 (1), tcp:030356_0100_0FE5CEFD6A091BC0 (1), tcp:030356_0101_0FE5CE9EB6E21C20 (1), tcp:030356_0102_0FE5CF7987F2D5F8 (1), tcp:030356_0103_0FE5CF2FCFA2AB98 (1), tcp:030356_0104_0FE5CED6B254D3A0 (1), tcp:030356_0105_0FE5CF1E82CFD940 (1), tcp:030356_0106_0FE5CEEF275AFF38 (1), tcp:030356_0107_0FE5CEF78F3EDCD0 (1), tcp:030356_0108_0FE5CF782AD0D0C0 (1), tcp:030356_0109_0FE5CF1FDB84CCC0 (1), tcp:030356_0110_0FE5CED4030BF010 (1), tcp:030356_0111_0FE5CF8CB30B4A90 (1), tcp:030356_0112_0FE5CF56682AF580 (1), tcp:030356_0113_0FE5CECC407AD938 (1), tcp:030356_0114_0FE5CF0AA8015540 (1), tcp:030356_0115_0FE5CF0C02420C78 (1), tcp:030356_0116_0FE5CEFF9075E9B8 (1), tcp:030356_0117_0FE5CEF8EBD26628 (1), tcp:030356_0118_0FE5CF264554AB78 (1), tcp:030356_0119_0FE5CF2E79EDBA28 (1), tcp:030356_0120_0FE5CEAEAF5A3CF8 (1), tcp:030356_0121_0FE5CEB71FC27670 (1), tcp:030356_0122_0FE5CEEFF489EBB0 (1), tcp:030356_0123_0FE5CF00EBEAC858 (1), tcp:030356_0124_0FE5CEC1DB490028 (1), tcp:030356_0125_0FE5CF94A5020B78 (1), tcp:030356_0126_0FE5CED525E683C0 (1), tcp:030356_0127_0FE5CF4BACC26B78 (1), tcp:030356_0128_0FE5CF8D806B73D0 (1), tcp:030356_0129_0FE5CF6A12355C98 (1), tcp:030356_0130_0FE5CEAC26ED39A8 (1), tcp:030356_0131_0FE5CEB006998B70 (1), tcp:030356_0132_0FE5CF279DEF19E8 (1), tcp:030356_0133_0FE5CF9AF3658C08 (1), tcp:030356_0134_0FE5CF5D4843FF50 (1), tcp:030356_0135_0FE5CEF1E1DE6518 (1), tcp:030356_0136_0FE5CF4FA59CB538 (1), tcp:030356_0137_0FE5CF0CCEE95648 (1), tcp:030356_0138_0FE5CF720402A068 (1), tcp:030356_0139_0FE5CED90743AE20 (1), tcp:030356_0140_0FE5CF9C59014E60 (1), tcp:030356_0141_0FE5CEA30A7B6538 (1), tcp:030356_0142_0FE5CEED0153EF70 (1), tcp:030356_0143_0FE5CEDE481CB4B8 (1), tcp:030356_0144_0FE5CEC569222AA8 (1), tcp:030356_0145_0FE5CF12431473C0 (1), tcp:030356_0146_0FE5CEA7D1A1E698 (1), tcp:030356_0147_0FE5CEC6EE551D50 (1), tcp:030356_0148_0FE5CECD9A3D8F50 (1), tcp:030356_0149_0FE5CF01BB0325B0 (1), tcp:030356_0150_0FE5CF1420CA1AA0 (1), tcp:030356_0151_0FE5CF15804054C0 (1), tcp:030356_0152_0FE5CF6C92551998 (1), tcp:030356_0153_0FE5CEB9DD717DA8 (1), tcp:030356_0154_0FE5CEBD9FE5DCF0 (1), tcp:030356_0155_0FE5CEC7E0C70590 (1), tcp:030356_0156_0FE5CF630E614258 (1), tcp:030356_0157_0FE5CF3138EB8C68 (1), tcp:030356_0158_0FE5CF330BD12968 (1), tcp:030356_0159_0FE5CF2B2D201BD8 (1), tcp:030356_0160_0FE5CF422F34BB68 (1), tcp:030356_0161_0FE5CF382009ACE8 (1), tcp:030356_0162_0FE59AC39E37DED0 (1), tcp:030356_0163_0FE5CF28665FE210 (1), tcp:030356_0164_0FE5CF3B033EE308 (1), tcp:030356_0165_0FE5CF6E6E813A48 (1), tcp:030356_0166_0FE5CF8AA3897920 (1), tcp:030356_0167_0FE5CF3D70E19878 (1), tcp:030356_0168_0FE5CEB16D6A2CC8 (1), tcp:030356_0169_0FE5CF460499D758 (1), tcp:030356_0170_0FE5CF7A52F57848 (1), tcp:030356_0171_0FE5CEBF6F02D5F8 (1), tcp:030356_0172_0FE5CF80679E49C8 (1), tcp:030356_0173_0FE5CF255A1BFD90 (1), tcp:030356_0174_0FE5CEC0396BB500 (1), tcp:030356_0175_0FE5CEDC244BAFE0 (1), tcp:030356_0176_0FE5CF1D30C61580 (1), tcp:030356_0177_0FE5CEA939AC6780 (1), tcp:030356_0178_0FE5CEE681ED7820 (1), tcp:030356_0179_0FE5CEF58C9A45C8 (1), tcp:030356_0180_0FE5CF164A7648A0 (1), tcp:030356_0181_0FE5CF4A46873FD8 (1), tcp:030356_0182_0FE5CEB868E19F38 (1), tcp:030356_0183_0FE5CF092F9F0658 (1), tcp:030356_0184_0FE5CEEDCB064FB8 (1), tcp:030356_0185_0FE5CEA5411C8FA8 (1), tcp:030356_0186_0FE5CEB2BAAB0330 (1), tcp:030356_0187_0FE5CEC8E39C8808 (1), tcp:030356_0188_0FE5CF1B8FF3C550 (1), tcp:030356_0189_0FE5CF5ADC336028 (1), tcp:030356_0190_0FE5CECEF712A9D0 (1), tcp:030356_0191_0FE5CEDCEDEFEB10 (1), tcp:030356_0192_0FE5CEB6567F2BA8 (1), tcp:030356_0193_0FE5CEAA08F0F4A8 (1), tcp:030356_0194_0FE5CEA459BC45A8 (1), tcp:030356_0195_0FE5CEE022AD9428 (1), tcp:030356_0196_0FE5CED5ECF66810 (1), tcp:030356_0197_0FE5CEAACE62F008 (1), tcp:030356_0198_0FE5CEE29CAB2838 (1), tcp:030356_0199_0FE5CFD067976428 (1), tcp:030356_0200_0FE5CFC36F8ECE00 (1), tcp:030356_0201_0FE5CFAF6F8E4160 (1), tcp:030356_0202_0FE5CFAB0EBD77D0 (1), tcp:030356_0203_0FE5CFAC23316258 (1), tcp:030356_0204_0FE5CFD2E82ACA88 (1), tcp:030356_0205_0FE5CFC935A5A480 (1), tcp:030356_0206_0FE5CFD4E4631428 (1), tcp:030356_0207_0FE5CFB819C62118 (1), tcp:030356_0208_0FE5CFDC91D66BE8 (1), tcp:030356_0209_0FE5CFFDAECDA8B0 (1), tcp:030356_0210_0FE5CFF7A98C4E88 (1), tcp:030356_0211_0FE5D000C6C9C718 (1), tcp:030356_0212_0FE59ACF979BD2C0 (1), tcp:030356_0213_0FE5D002AC256FF8 (1), tcp:030356_0214_0FE5CFE08B3022C0 (1), tcp:030356_0215_0FE5CF9D24130BE0 (1), tcp:030356_0216_0FE5CFE2E79CBB58 (1), tcp:030356_0217_0FE5CFA75D3128E8 (1), tcp:030356_0218_0FE5CFE51F024738 (1), tcp:030356_0219_0FE5CFCB55C1FDF8 (1), tcp:030356_0220_0FE5CFEC97288338 (1), tcp:030356_0221_0FE5D00509D92610 (1), tcp:030356_0222_0FE5CFEED3311218 (1), tcp:030356_0223_0FE5CFC6779D3A78 (1), tcp:030356_0224_0FE5CFF14760E698 (1), tcp:030356_0225_0FE5CFBB08DD0330 (1), tcp:030356_0226_0FE5CFF32D6692E8 (1), tcp:030356_0227_0FE5D0098FD84E10 (1), tcp:030356_0228_0FE59AD2311B1F08 (1), tcp:030356_0229_0FE5CFC7DB3A8CF0 (1), tcp:030356_0230_0FE5CFBA0E60F438 (1), tcp:030356_0231_0FE5D00BD55E0820 (1), tcp:030356_0232_0FE59ACB873FAEB0 (1), tcp:030356_0233_0FE5CFA91B892608 (1)  •  @__n__ (219) : iv (1), v (1), 2 (1), 3 (1), 4 (1), 5 (1), 6 (1), 7 (1), 8 (1), 9 (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (1), 15 (1), 16 (1), 17 (1), 18 (1), 19 (1), 20 (1), 21 (1), 22 (1), 23 (1), 24 (1), 25 (1), 26 (1), 27 (1), 28 (1), 29 (1), 30 (1), 31 (1), 32 (1), 33 (1), 34 (1), 35 (1), 36 (1), 37 (1), 38 (1), 39 (1), 40 (1), 41 (1), 42 (1), 43 (1), 44 (1), 45 (1), 46 (1), 47 (1), 48 (1), 49 (1), 50 (1), 51 (1), 52 (1), 53 (1), 54 (1), 55 (1), 57 (1), 58 (1), 59 (1), 60 (1), 61 (1), 62 (1), 63 (1), 64 (1), 65 (1), 66 (1), 67 (1), 68 (1), 70 (1), 71 (1), 72 (1), 73 (1), 74 (1), 75 (1), 76 (1), 77 (1), 78 (1), 79 (1), 80 (1), 81 (1), 82 (1), 83 (1), 84 (1), 85 (1), 86 (1), 87 (1), 88 (1), 89 (1), 90 (1), 91 (1), 92 (1), 93 (1), 94 (1), 95 (1), 96 (1), 98 (1), 99 (1), 100 (1), 101 (1), 102 (1), 103 (1), 104 (1), 105 (1), 106 (1), 107 (1), 108 (1), 109 (1), 110 (1), 111 (1), 112 (1), 113 (1), 114 (1), 115 (1), 116 (1), 118 (1), 119 (1), 120 (1), 121 (1), 122 (1), 123 (1), 124 (1), 125 (1), 126 (1), 127 (1), 128 (1), 129 (1), 130 (1), 131 (1), 132 (1), 133 (1), 134 (1), 135 (1), 136 (1), 138 (1), 139 (1), 140 (1), 141 (1), 142 (1), 143 (1), 148 (2), 146 (1), 147 (1), 149 (1), 150 (1), 151 (1), 152 (1), 153 (1), 154 (1), 155 (1), 156 (1), 157 (1), 158 (1), 159 (1), 160 (1), 161 (1), 162 (1), 163 (1), 164 (1), 165 (1), 166 (1), 167 (1), 168 (1), 169 (1), 170 (1), 171 (1), 172 (1), 174 (1), 175 (1), 176 (1), 177 (1), 178 (1), 179 (1), 180 (1), 181 (1), 182 (1), 183 (1), 185 (1), 186 (1), 187 (1), 188 (1), 189 (1), 190 (1), 191 (1), 192 (1), 193 (1), 194 (1), 195 (1), 196 (1), 197 (1), 199 (1), 200 (1), 201 (1), 202 (1), 203 (1), 204 (1), 205 (1), 206 (1), 207 (1), 209 (1), 210 (1), 211 (1), 212 (1), 213 (1), 214 (1), 215 (1), 216 (1), 217 (1), 218 (1), 219 (1), 220 (1), 221 (1), 222 (1), 223 (1), 224 (1), 225 (1), 226 (1), 227 (1), 228 (1)|
+|22.|__q__|108||
+|23.|__salute__|2||
+|24.|__signed__|2||
+|25.|__sp__|11||
+|26.|__speaker__|11||
+|27.|__stage__|1||
